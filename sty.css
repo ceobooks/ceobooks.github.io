@@ -1,0 +1,90 @@
+body{
+  padding:10px;
+  font-size:50%;
+}
+
+
+	h1{
+  font-size:1.1em;
+}
+
+h2 { font-size: 0.1em; }
+
+h1,h2,h3,h4,h5,h6,p {
+ line-height: 1.25;
+}
+  
+body {
+	font: 100% chivo;
+
+
+}
+
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+div.centre
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+  
+}
+
+div.centre1
+{
+	width: 120px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+  
+}
+
+
+
+
+
+
+
+#ceobooks{
+	float:left;
+	max-height::52%;
+	position:fixed;
+	left:6%;
+	position:fixed;
+
+}
+
+
+#ceologo{
+	width:12.4%;
+	height:13.8%;
+	margin-top:2%;
+	margin-left:15%;
+	position:fixed;
+}
+
+#ceoposter{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#ceoinfo{	
+	float:right;
+	height:52%;
+	right:6%;
+	position:fixed;
+
+}
+
+#textposter{	
+	
+	height:52%;
+	left:46%;
+	position:fixed;
+
+}
