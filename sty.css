@@ -1,5 +1,5 @@
 body{
-  padding:10px;
+  padding:0px;
   font-size:50%;
 }
 
@@ -46,7 +46,7 @@ div.centre1
 	float:left;
 	max-height::52%;
 	position:fixed;
-	left:6%;
+	left:3%;
 	position:fixed;
 
 }
@@ -55,8 +55,8 @@ div.centre1
 #ceologo{
 	width:12.4%;
 	height:13.8%;
-	margin-top:2%;
-	margin-left:15%;
+	margin-top:4%;
+	margin-left:14%;
 	position:fixed;
 }
 
@@ -69,7 +69,7 @@ div.centre1
 #ceoinfo{	
 	float:right;
 	height:52%;
-	right:6%;
+	right:3%;
 	position:fixed;
 
 }
