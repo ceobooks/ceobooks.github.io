@@ -15,9 +15,17 @@ h1,h2,h3,h4,h5,h6,p {
   
   
   
+ @font-face {
+  font-family: 'Chivo';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Chivo'), local('Chivo-Regular'), url(http://themes.googleusercontent.com/static/fonts/chivo/v5/GhipLm6QPHeaA8ybMizMsKCWcynf_cDxXwCLxiixG1c.woff) format('woff');
+}
+  
+  
   
 body {
-	font: 100% chivo;
+  	font-family: 'Chivo', sans-serif;
 	font-weight: normal;
 	font-style: normal;
 	font-variant: normal;
